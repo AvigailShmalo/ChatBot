@@ -1,0 +1,112 @@
+{"intents": [
+
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "Greetings", "whats up?", "sup?", "hows it going?"],
+    "responses": ["Hello! ", "Hi there! ", "What can I do for you? ", "Hey! What can I do for you?"]
+    },
+
+    {"tag": "goodbye",
+    "patterns": ["goodbye", "bye", "gotta go", "later dude", "see ya"],
+    "responses": ["Good-bye!", "Have a nice day", "Twas Pleasure meeting you", "Adios!", "Happy to be of service"]
+    },
+
+    {"tag": "Name",
+    "patterns": ["name?", "whats her name?", "whats avigail's full name?", "who is this kid?"],
+    "responses": ["My mommy's name is Avigail Shmalo"]
+    },
+
+    {"tag": "hobbies",
+    "patterns": ["what are her hobbes?", "does she have any hobbies?", "what does she like to do?", "hobbies?"],
+    "responses": ["Avigail like to run, cook, dance, draw, make teachers go crazy with her questions, and make bots like mwa"]
+    },
+
+    {"tag": "Favorite food",
+    "patterns": ["Whats her favorite food", "does she like food?", "what does she like to eat?", "favorite food?"],
+    "responses": ["Avigail likes to eat bagels!", "Sushi is one of Avigail's favprite foods!", "Most things between two peices of bread;)"]
+    },
+
+    {"tag": "School",
+    "patterns": ["Where does Avigail go to school?", "what schools does she go to?", "where is she currently enrolled for school?"],
+    "responses": ["Avigail goes to school at Bais Yaakov Machon Ora institution! AKA BYMO!", "BYMO/ Bais Yaakov Machon Ora"]
+    },
+
+    {"tag": "Favorite subject",
+    "patterns": ["What is her favorite subject?", "what does she like to learn?", "whats her favorite class?"],
+    "responses": ["Avigail's favorite subject is computer science partly because she has the most awesomest teacher ever!!!!!!"]
+    },
+
+    {"tag": "favorite color",
+    "patterns": ["whats her favorite color?", "does she have a favorite color?", "what color doe she like?"],
+    "responses": ["Avigail does not have a favorite color. She likes all the colors in this beautiful magical world!"]
+    },
+
+    {"tag": "Family",
+    "patterns": ["whats Avigail's family like?", "does Avigail Have any siblings?", "How many siblings does Avigail Have?", "Who is Avigail's family?"],
+    "responses": ["Avigail is the only girl of six boys. There are three sets of twins in her family and she is one of those twins! she has two married brothers and two nephews BH!"]
+    },
+
+    {"tag": "Seminary",
+    "patterns": ["Is Avigail going to seminary?", "which Seminary is Avigail going to?", "does Avigail want to go learn in Israel next year?", "Where is Avigail Learning in Israel?", "which seminary has the privalige of techaing Avigail next year?"],
+    "responses": ["Avigail is going to Michlalah next year IYH!!!!", "MICHLALAH!!!!!", "she is shteiging at Michlalah next year!"]
+    },
+
+    {"tag": "age",
+    "patterns": ["who old is Avigail?", "how young is Avigail?", "how many years has Avigail been alive?", "When is Avigail's Birthday?"],
+    "responses": ["Avigail was born on July 13th 2003, making her 17 years old!", "she was born in July and is 17 years old!"]
+    },
+
+    {"tag": "address",
+    "patterns": ["what is Avigail's address?", "where does Avigail Live?"],
+    "responses": ["Avigail lives at 93 The Cicle Passaic NJ 07055", "in America", "earth"]
+    },
+
+    {"tag": "Birthplace",
+    "patterns": ["Where was Avigail Born?", "what country was Avigail born in?", "what is Avigail's Nationality?"],
+    "responses": ["Avigail was born in Tellstone Israel.", "Israel", "She was born in Israel and so she is an Iraeli."]
+    },
+
+    {"tag": "College",
+    "patterns": ["which College is Avigail going to?", "is Avigail going to college?", "college?", "where is Avigail getting her degree?"],
+    "responses": ["Avigail will be attending Stern College after her year in sem!", "She is going to YU's college for women: Stern", "Stern"]
+    },
+    {"tag": "AP",
+    "patterns": ["Is Avigail Taking any APs", "Which APs are avigail taking?", "is She taking any advanced placment courses?"],
+    "responses": ["Avigail has taken AP computer Science, AP Psycology, and AP Physics!!!", "CSA, Psyc, and Physics"]
+    },
+    {"tag": "height",
+    "patterns": ["how tall is Avigail?", "what is Avigail's height"],
+    "responses": ["Avigail is 5.3ft"]
+    },
+
+    {"tag": "Hair",
+    "patterns": ["Hair", "What color is Avigail's hair"],
+    "responses": ["Avigail has semi straigh brown hiar"]
+    },
+
+    {"tag": "Shoes",
+    "patterns": ["Shoes", "what are avigails favorite type of shoes", "what shoes does avigail have", "what is Avigail's shoe size"],
+    "responses": ["Avigail loves her black convers size 7.5"]
+    },
+
+    {"tag": "Book",
+    "patterns": ["What is Avigail's favorite book?", "what book is Avigail currently reading?", "book suggestions"],
+    "responses": ["Avigail is currently loving her dads seminary book which is only 13.24$!"]
+    },
+    
+    {"tag": "Job",
+    "patterns": ["does Avigail Have a job?", "how does Avigail get money?", "what does avigail do for work?", "How come Avigail is so rich?"],
+    "responses": ["Avigail tutors kids in Math three days a week!", "She tutors math!", "Tutoring three days a week!"]
+    }
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+]}
